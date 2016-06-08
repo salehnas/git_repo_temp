@@ -12,5 +12,3 @@ fjnvb
 [oop
 
 nmv
-mv
-m
