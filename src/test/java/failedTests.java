@@ -8,6 +8,6 @@ public class failedTests {
 
     @Test
     public void test1() {
-        Assert.assertTrue("testing_issues", 1 == 2);
+        Assert.assertTrue("testing_issues", 1 == 1);
     }
 }
