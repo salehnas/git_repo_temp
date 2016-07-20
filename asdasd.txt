@@ -8,7 +8,19 @@ hrt
 h
 rth
 srt
-hwqewqsadasfvsdfv
+hwqewqsadasf
+
+
+
+function(pipeline) {
+        //    $scope.details.jobName = pipeline.entities[0].root_job.name;
+        //    $scope.details.ciServer = pipeline.entities[0].ci_server;
+        //  }function(pipeline) {
+        //    $scope.details.jobName = pipeline.entities[0].root_job.name;
+        //    $scope.details.ciServer = pipeline.entities[0].ci_server;
+        //  }
+		
+		vsdfv
 fv
 dfs
 vdf
