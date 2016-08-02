@@ -9,5 +9,6 @@ public class failedTests {
     @Test
     public void test1() {
         Assert.assertTrue("testing_issues", 1 == 1);
+		int x = 0;
     }
 }
